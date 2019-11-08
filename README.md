@@ -1,2 +1,8 @@
 # hello-world
-Place for things
+A Place for Things
+
+I am learning python and linux. 
+
+Much code... 
+
+So Wow...
